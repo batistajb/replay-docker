@@ -2,3 +2,5 @@
 .idea/
 postgres/.docker/
 replay-admin/
+/terraform/.terraform
+/terraform/output.json
